@@ -1,8 +1,8 @@
 name: flutter_choose_date
 description: choose date
 version: 0.0.1
-author:
-homepage:
+author: Tim
+homepage: https://github.com/TimRian/chooseDateDialog.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
